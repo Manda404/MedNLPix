@@ -1,0 +1,10 @@
+2025-10-07 13:48:59,108 - mednlpix.data.splitter - INFO - Split - Train: (1600, 2), Valid: (343, 2), Test: (343, 2)
+2025-10-07 13:50:02,413 - mednlpix.data.splitter - INFO - Split - Train: (1600, 2), Valid: (343, 2), Test: (343, 2)
+2025-10-07 13:52:16,823 - mednlpix.data.splitter - INFO - Split - Train: (1828, 2), Valid: (229, 2), Test: (229, 2)
+2025-10-07 13:52:36,641 - mednlpix.data.splitter - WARNING - Proportions do not sum to 1 (total=1.10). Normalizing...
+2025-10-07 13:52:36,656 - mednlpix.data.splitter - INFO - Split - Train: (1454, 2), Valid: (623, 2), Test: (209, 2)
+2025-10-07 13:53:04,084 - mednlpix.data.splitter - INFO - Split - Train: (1600, 2), Valid: (343, 2), Test: (343, 2)
+2025-10-07 13:53:16,893 - mednlpix.data.splitter - INFO - Split - Train: (1600, 2), Valid: (343, 2), Test: (343, 2)
+2025-10-07 14:01:39,164 - mednlpix.data.splitter - INFO - Split - Train: (1600, 2), Valid: (343, 2), Test: (343, 2)
+2025-10-07 15:20:00,778 - mednlpix.data.splitter - INFO - Split - Train: (1600, 2), Valid: (343, 2), Test: (343, 2)
+2025-10-07 15:28:47,971 - mednlpix.data.splitter - INFO - Split - Train: (1600, 2), Valid: (343, 2), Test: (343, 2)

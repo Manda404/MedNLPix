@@ -1,0 +1,100 @@
+2025-10-07 13:10:15,787 - mednlpix.data.loader - INFO - Searching for dataset in: /Users/surelmanda/Data-Science-Projects/MedNLPix/data
+2025-10-07 13:10:15,796 - mednlpix.data.loader - ERROR - No CSV file found in /Users/surelmanda/Data-Science-Projects/MedNLPix/data
+2025-10-07 13:10:15,797 - mednlpix.data.loader - ERROR - Error while loading dataset: No CSV file found in /Users/surelmanda/Data-Science-Projects/MedNLPix/data
+Traceback (most recent call last):
+  File "/Users/surelmanda/Data-Science-Projects/MedNLPix/src/mednlpix/data/loader.py", line 66, in get_medical_dataset
+    dataset_path = get_dataset_path(data_dir)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/surelmanda/Data-Science-Projects/MedNLPix/src/mednlpix/data/loader.py", line 22, in get_dataset_path
+    raise FileNotFoundError(f"No CSV file found in {data_path}")
+FileNotFoundError: No CSV file found in /Users/surelmanda/Data-Science-Projects/MedNLPix/data
+2025-10-07 13:10:49,815 - mednlpix.data.loader - INFO - Searching for dataset in: /Users/surelmanda/Data-Science-Projects/MedNLPix/data
+2025-10-07 13:10:49,815 - mednlpix.data.loader - ERROR - No CSV file found in /Users/surelmanda/Data-Science-Projects/MedNLPix/data
+2025-10-07 13:10:49,816 - mednlpix.data.loader - ERROR - Error while loading dataset: No CSV file found in /Users/surelmanda/Data-Science-Projects/MedNLPix/data
+Traceback (most recent call last):
+  File "/Users/surelmanda/Data-Science-Projects/MedNLPix/src/mednlpix/data/loader.py", line 66, in get_medical_dataset
+    dataset_path = get_dataset_path(data_dir)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/surelmanda/Data-Science-Projects/MedNLPix/src/mednlpix/data/loader.py", line 22, in get_dataset_path
+    raise FileNotFoundError(f"No CSV file found in {data_path}")
+FileNotFoundError: No CSV file found in /Users/surelmanda/Data-Science-Projects/MedNLPix/data
+2025-10-07 13:11:03,932 - mednlpix.data.loader - INFO - Searching for dataset in: /Users/surelmanda/Data-Science-Projects/MedNLPix/data
+2025-10-07 13:11:03,933 - mednlpix.data.loader - ERROR - No CSV file found in /Users/surelmanda/Data-Science-Projects/MedNLPix/data
+2025-10-07 13:11:03,933 - mednlpix.data.loader - ERROR - Error while loading dataset: No CSV file found in /Users/surelmanda/Data-Science-Projects/MedNLPix/data
+Traceback (most recent call last):
+  File "/Users/surelmanda/Data-Science-Projects/MedNLPix/src/mednlpix/data/loader.py", line 66, in get_medical_dataset
+    dataset_path = get_dataset_path(data_dir)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/surelmanda/Data-Science-Projects/MedNLPix/src/mednlpix/data/loader.py", line 22, in get_dataset_path
+    raise FileNotFoundError(f"No CSV file found in {data_path}")
+FileNotFoundError: No CSV file found in /Users/surelmanda/Data-Science-Projects/MedNLPix/data
+2025-10-07 13:13:52,637 - mednlpix.data.loader - INFO - Searching for dataset in: /Users/surelmanda/Data-Science-Projects/MedNLPix/data
+2025-10-07 13:13:52,637 - mednlpix.data.loader - ERROR - No CSV file found in /Users/surelmanda/Data-Science-Projects/MedNLPix/data
+2025-10-07 13:13:52,638 - mednlpix.data.loader - ERROR - Error while loading dataset: No CSV file found in /Users/surelmanda/Data-Science-Projects/MedNLPix/data
+Traceback (most recent call last):
+  File "/Users/surelmanda/Data-Science-Projects/MedNLPix/src/mednlpix/data/loader.py", line 66, in get_medical_dataset
+    dataset_path = get_dataset_path(data_dir)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/surelmanda/Data-Science-Projects/MedNLPix/src/mednlpix/data/loader.py", line 22, in get_dataset_path
+    raise FileNotFoundError(f"No CSV file found in {data_path}")
+FileNotFoundError: No CSV file found in /Users/surelmanda/Data-Science-Projects/MedNLPix/data
+2025-10-07 13:14:36,784 - mednlpix.data.loader - INFO - Searching for dataset in: /Users/surelmanda/Data-Science-Projects/MedNLPix/data
+2025-10-07 13:14:36,786 - mednlpix.data.loader - ERROR - No CSV file found in /Users/surelmanda/Data-Science-Projects/MedNLPix/data
+2025-10-07 13:14:36,786 - mednlpix.data.loader - ERROR - Error while loading dataset: No CSV file found in /Users/surelmanda/Data-Science-Projects/MedNLPix/data
+Traceback (most recent call last):
+  File "/Users/surelmanda/Data-Science-Projects/MedNLPix/src/mednlpix/data/loader.py", line 66, in get_medical_dataset
+    dataset_path = get_dataset_path(data_dir)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/surelmanda/Data-Science-Projects/MedNLPix/src/mednlpix/data/loader.py", line 22, in get_dataset_path
+    raise FileNotFoundError(f"No CSV file found in {data_path}")
+FileNotFoundError: No CSV file found in /Users/surelmanda/Data-Science-Projects/MedNLPix/data
+2025-10-07 13:18:24,037 - mednlpix.data.loader - INFO - Searching for dataset in: /Users/surelmanda/Data-Science-Projects/MedNLPix/data/raw
+2025-10-07 13:18:24,038 - mednlpix.data.loader - INFO - Dataset found: medical-abstracts-dataset.csv
+2025-10-07 13:18:24,038 - mednlpix.data.loader - INFO - Loading dataset from: /Users/surelmanda/Data-Science-Projects/MedNLPix/data/raw/medical-abstracts-dataset.csv
+2025-10-07 13:18:24,064 - mednlpix.data.loader - INFO - Dataset loaded successfully with shape (2286, 2)
+2025-10-07 13:18:24,064 - mednlpix.data.loader - INFO - Dataset successfully retrieved and loaded.
+2025-10-07 13:22:39,499 - mednlpix.data.loader - INFO - Searching for dataset in: /Users/surelmanda/Data-Science-Projects/MedNLPix/data/raw
+2025-10-07 13:22:39,500 - mednlpix.data.loader - INFO - Dataset found: medical-abstracts-dataset.csv
+2025-10-07 13:22:39,500 - mednlpix.data.loader - INFO - Loading dataset from: /Users/surelmanda/Data-Science-Projects/MedNLPix/data/raw/medical-abstracts-dataset.csv
+2025-10-07 13:22:39,524 - mednlpix.data.loader - INFO - Dataset loaded successfully with shape (2286, 2)
+2025-10-07 13:22:39,524 - mednlpix.data.loader - INFO - Dataset successfully retrieved and loaded.
+2025-10-07 13:22:59,873 - mednlpix.data.loader - INFO - Searching for dataset in: /Users/surelmanda/Data-Science-Projects/MedNLPix/data/raw
+2025-10-07 13:22:59,876 - mednlpix.data.loader - INFO - Dataset found: medical-abstracts-dataset.csv
+2025-10-07 13:22:59,877 - mednlpix.data.loader - INFO - Loading dataset from: /Users/surelmanda/Data-Science-Projects/MedNLPix/data/raw/medical-abstracts-dataset.csv
+2025-10-07 13:22:59,915 - mednlpix.data.loader - INFO - Dataset loaded successfully with shape (2286, 2)
+2025-10-07 13:22:59,916 - mednlpix.data.loader - INFO - Dataset successfully retrieved and loaded.
+2025-10-07 13:23:22,356 - mednlpix.data.loader - INFO - Searching for dataset in: /Users/surelmanda/Data-Science-Projects/MedNLPix/data/raw
+2025-10-07 13:23:22,357 - mednlpix.data.loader - INFO - Dataset found: medical-abstracts-dataset.csv
+2025-10-07 13:23:22,357 - mednlpix.data.loader - INFO - Loading dataset from: /Users/surelmanda/Data-Science-Projects/MedNLPix/data/raw/medical-abstracts-dataset.csv
+2025-10-07 13:23:22,388 - mednlpix.data.loader - INFO - Dataset loaded successfully with shape (2286, 2)
+2025-10-07 13:23:22,389 - mednlpix.data.loader - INFO - Dataset successfully retrieved and loaded.
+2025-10-07 13:26:07,575 - mednlpix.data.loader - INFO - Searching for dataset in: /Users/surelmanda/Data-Science-Projects/MedNLPix/data/raw
+2025-10-07 13:26:07,579 - mednlpix.data.loader - INFO - Dataset found: medical-abstracts-dataset.csv
+2025-10-07 13:26:07,581 - mednlpix.data.loader - INFO - Loading dataset from: /Users/surelmanda/Data-Science-Projects/MedNLPix/data/raw/medical-abstracts-dataset.csv
+2025-10-07 13:26:07,615 - mednlpix.data.loader - INFO - Dataset loaded successfully with shape (2286, 2)
+2025-10-07 13:26:07,616 - mednlpix.data.loader - INFO - Dataset successfully retrieved and loaded.
+2025-10-07 13:26:19,258 - mednlpix.data.loader - INFO - Searching for dataset in: /Users/surelmanda/Data-Science-Projects/MedNLPix/data/raw
+2025-10-07 13:26:19,259 - mednlpix.data.loader - INFO - Dataset found: medical-abstracts-dataset.csv
+2025-10-07 13:26:19,260 - mednlpix.data.loader - INFO - Loading dataset from: /Users/surelmanda/Data-Science-Projects/MedNLPix/data/raw/medical-abstracts-dataset.csv
+2025-10-07 13:26:19,290 - mednlpix.data.loader - INFO - Dataset loaded successfully — the input data has 2286 rows and 2 columns.
+2025-10-07 13:26:19,291 - mednlpix.data.loader - INFO - Dataset successfully retrieved and loaded.
+2025-10-07 13:48:55,387 - mednlpix.data.loader - INFO - Searching for dataset in: /Users/surelmanda/Data-Science-Projects/MedNLPix/data/raw
+2025-10-07 13:48:55,390 - mednlpix.data.loader - INFO - Dataset found: medical-abstracts-dataset.csv
+2025-10-07 13:48:55,391 - mednlpix.data.loader - INFO - Loading dataset from: /Users/surelmanda/Data-Science-Projects/MedNLPix/data/raw/medical-abstracts-dataset.csv
+2025-10-07 13:48:55,490 - mednlpix.data.loader - INFO - Dataset loaded successfully — the input data has 2286 rows and 2 columns.
+2025-10-07 13:48:55,491 - mednlpix.data.loader - INFO - Dataset successfully retrieved and loaded.
+2025-10-07 14:01:36,574 - mednlpix.data.loader - INFO - Searching for dataset in: /Users/surelmanda/Data-Science-Projects/MedNLPix/data/raw
+2025-10-07 14:01:36,576 - mednlpix.data.loader - INFO - Dataset found: medical-abstracts-dataset.csv
+2025-10-07 14:01:36,577 - mednlpix.data.loader - INFO - Loading dataset from: /Users/surelmanda/Data-Science-Projects/MedNLPix/data/raw/medical-abstracts-dataset.csv
+2025-10-07 14:01:36,609 - mednlpix.data.loader - INFO - Dataset loaded successfully — the input data has 2286 rows and 2 columns.
+2025-10-07 14:01:36,610 - mednlpix.data.loader - INFO - Dataset successfully retrieved and loaded.
+2025-10-07 15:20:00,690 - mednlpix.data.loader - INFO - Searching for dataset in: /Users/surelmanda/Data-Science-Projects/MedNLPix/data/raw
+2025-10-07 15:20:00,691 - mednlpix.data.loader - INFO - Dataset found: medical-abstracts-dataset.csv
+2025-10-07 15:20:00,692 - mednlpix.data.loader - INFO - Loading dataset from: /Users/surelmanda/Data-Science-Projects/MedNLPix/data/raw/medical-abstracts-dataset.csv
+2025-10-07 15:20:00,715 - mednlpix.data.loader - INFO - Dataset loaded successfully — the input data has 2286 rows and 2 columns.
+2025-10-07 15:20:00,716 - mednlpix.data.loader - INFO - Dataset successfully retrieved and loaded.
+2025-10-07 15:28:47,927 - mednlpix.data.loader - INFO - Searching for dataset in: /Users/surelmanda/Data-Science-Projects/MedNLPix/data/raw
+2025-10-07 15:28:47,928 - mednlpix.data.loader - INFO - Dataset found: medical-abstracts-dataset.csv
+2025-10-07 15:28:47,930 - mednlpix.data.loader - INFO - Loading dataset from: /Users/surelmanda/Data-Science-Projects/MedNLPix/data/raw/medical-abstracts-dataset.csv
+2025-10-07 15:28:47,952 - mednlpix.data.loader - INFO - Dataset loaded successfully — the input data has 2286 rows and 2 columns.
+2025-10-07 15:28:47,953 - mednlpix.data.loader - INFO - Dataset successfully retrieved and loaded.
