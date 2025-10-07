@@ -1,0 +1,39 @@
+[project]
+name = "mednlpix"
+version = "0.1.0"
+description = "MedNLPix — Medical NLP pipeline"
+authors = [
+    {name = "Rostand Surel"}
+]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.10,<3.13"
+dependencies = [
+    "pandas (>=2.3.3,<3.0.0)",
+    "numpy (>=2.3.3,<3.0.0)",
+    "scikit-learn (>=1.7.2,<2.0.0)",
+    "pydantic (>=2.11.10,<3.0.0)",
+    "joblib (>=1.5.2,<2.0.0)",
+    "streamlit (>=1.50.0,<2.0.0)",
+    "fastapi (>=0.118.0,<0.119.0)",
+    "uvicorn (>=0.37.0,<0.38.0)",
+    "matplotlib (>=3.10.6,<4.0.0)",
+    "seaborn (>=0.13.2,<0.14.0)",
+    "plotly (>=6.3.1,<7.0.0)",
+    "pyyaml (>=6.0.3,<7.0.0)",
+    "scipy (>=1.16.2,<2.0.0)"
+]
+
+[tool.poetry]
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.4.2"
+black = "^25.9.0"
+ruff = "^0.13.3"
+mypy = "^1.18.2"
+pre-commit = "^4.3.0"
+pytest-cov = "^7.0.0"
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
