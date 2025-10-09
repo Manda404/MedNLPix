@@ -1,0 +1,405 @@
+2025-10-07 16:21:38,943 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-07 16:21:39,368 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-07 16:21:39,368 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 16:21:56,185 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 47.76
+2025-10-07 16:21:56,186 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 16:21:59,906 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 48.36
+2025-10-07 16:21:59,908 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 16:22:03,237 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 46.98
+2025-10-07 16:28:17,186 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-07 16:28:17,188 - mednlpix.features.preprocessing.spacy_preprocessor - WARNING - Model 'en_core_web_sm' not found. Downloading...
+2025-10-07 16:28:19,365 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-07 16:28:19,366 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 16:28:36,749 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 47.76
+2025-10-07 16:28:36,752 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 16:28:40,195 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 48.36
+2025-10-07 16:28:40,196 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 16:28:43,520 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 46.98
+2025-10-07 16:37:38,934 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-07 16:37:39,335 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-07 16:37:39,336 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 16:37:58,127 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 47.76
+2025-10-07 16:37:58,130 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 16:38:02,195 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 48.36
+2025-10-07 16:38:02,200 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 16:38:05,719 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 46.98
+2025-10-07 16:44:19,199 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-07 16:44:19,665 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-07 16:44:19,666 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 16:44:38,029 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 47.76
+2025-10-07 16:44:38,032 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 16:44:41,788 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 48.36
+2025-10-07 16:44:41,789 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 16:44:45,541 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 46.98
+2025-10-07 16:45:05,969 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-07 16:45:06,392 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-07 16:45:06,392 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 16:45:23,407 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 47.76
+2025-10-07 16:45:23,413 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 16:45:26,886 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 48.36
+2025-10-07 16:45:26,887 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 16:45:30,231 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 46.98
+2025-10-07 17:03:13,049 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-07 17:03:13,493 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-07 17:03:13,494 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 17:03:30,158 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 47.76
+2025-10-07 17:03:30,159 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 17:03:33,566 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 48.36
+2025-10-07 17:03:33,567 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 17:03:36,855 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 46.98
+2025-10-07 17:13:27,177 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-07 17:13:27,570 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-07 17:13:27,574 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 17:13:44,316 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 47.76
+2025-10-07 17:13:44,317 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 17:13:47,728 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 48.36
+2025-10-07 17:13:47,729 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 17:13:51,070 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 46.98
+2025-10-07 17:22:06,217 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-07 17:22:06,628 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-07 17:22:06,629 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 17:22:23,475 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 47.76
+2025-10-07 17:22:23,477 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 17:22:26,887 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 48.36
+2025-10-07 17:22:26,888 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 17:22:30,190 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 46.98
+2025-10-07 17:22:45,133 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-07 17:22:45,484 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-07 17:22:45,488 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 17:23:02,274 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 47.76
+2025-10-07 17:23:02,275 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 17:23:05,786 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 48.36
+2025-10-07 17:23:05,786 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 17:23:09,097 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 46.98
+2025-10-07 18:12:04,611 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-07 18:12:05,050 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-07 18:12:05,050 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 18:12:22,017 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 47.76
+2025-10-07 18:12:22,019 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 18:12:25,452 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 48.36
+2025-10-07 18:12:25,453 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 18:12:28,762 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 46.98
+2025-10-07 18:53:25,562 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-07 18:53:25,926 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-07 18:53:25,926 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 18:53:36,085 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 47.76
+2025-10-07 18:53:36,086 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 18:53:38,294 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 48.36
+2025-10-07 18:53:38,295 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 18:53:40,346 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 46.98
+2025-10-07 18:54:15,598 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-07 18:54:15,845 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-07 19:03:17,245 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-07 19:03:17,490 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-07 19:03:17,493 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 19:03:27,927 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 47.76
+2025-10-07 19:03:27,927 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 19:03:30,048 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 48.36
+2025-10-07 19:03:30,048 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 19:03:32,048 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 46.98
+2025-10-07 19:03:34,124 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-07 19:03:34,338 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-07 19:03:57,964 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-07 19:03:58,246 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-07 19:03:58,246 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 19:04:08,560 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 47.76
+2025-10-07 19:04:08,560 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 19:04:10,704 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 48.36
+2025-10-07 19:04:10,705 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 19:04:12,769 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 46.98
+2025-10-07 19:04:15,210 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-07 19:04:15,507 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-07 19:05:27,949 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-07 19:05:28,197 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-07 19:05:28,199 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 19:05:38,211 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 47.76
+2025-10-07 19:05:38,768 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-07 19:05:38,966 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-07 19:06:38,398 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-07 19:06:38,638 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-07 19:06:38,645 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 19:06:48,795 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 47.76
+2025-10-07 19:06:49,452 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-07 19:06:49,712 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-07 19:06:49,714 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 19:07:00,511 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 47.76
+2025-10-07 19:22:36,216 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-07 19:22:36,527 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-07 19:22:36,528 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 19:22:47,697 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 47.76
+2025-10-07 19:22:47,715 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-07 19:22:48,072 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-07 19:22:48,073 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 19:22:48,111 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 41.60
+2025-10-07 23:21:29,369 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-07 23:21:29,692 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-07 23:21:29,699 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 23:21:40,205 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 47.76
+2025-10-07 23:21:40,212 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-07 23:21:40,463 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-07 23:21:40,468 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 23:21:40,505 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 41.60
+2025-10-07 23:22:50,576 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-07 23:22:50,836 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-07 23:22:50,841 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 23:22:50,880 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 41.60
+2025-10-07 23:24:08,891 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-07 23:24:09,140 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-07 23:24:09,142 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 23:24:09,185 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 41.60
+2025-10-07 23:33:19,254 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-07 23:33:19,528 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-07 23:33:19,539 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 23:33:19,597 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 41.60
+2025-10-07 23:33:32,994 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-07 23:33:33,267 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-07 23:33:33,271 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 23:33:33,311 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 41.60
+2025-10-07 23:33:46,350 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-07 23:33:46,606 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-07 23:33:46,607 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 23:33:57,530 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 47.76
+2025-10-07 23:33:57,567 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-07 23:33:57,909 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-07 23:33:57,910 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 23:33:57,951 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 41.60
+2025-10-07 23:34:11,795 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-07 23:34:12,033 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-07 23:34:12,040 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 23:34:12,083 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 41.60
+2025-10-07 23:34:25,895 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-07 23:34:26,118 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-07 23:34:26,121 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 23:34:26,160 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 41.60
+2025-10-07 23:44:09,572 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-07 23:44:09,817 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-07 23:44:09,821 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 23:44:20,606 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 47.76
+2025-10-07 23:44:20,727 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 23:44:22,965 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 48.36
+2025-10-07 23:45:35,184 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-07 23:45:35,445 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-07 23:45:35,451 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 23:45:46,399 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 47.76
+2025-10-07 23:45:46,513 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-07 23:45:48,679 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 48.36
+2025-10-08 00:30:20,409 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-08 00:30:20,744 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-08 00:30:20,751 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 00:30:32,006 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 47.76
+2025-10-08 00:30:32,123 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 00:30:34,209 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 48.36
+2025-10-08 00:57:04,906 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-08 00:57:05,418 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-08 00:57:05,418 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 00:57:24,032 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 47.76
+2025-10-08 00:57:55,022 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-08 00:57:55,763 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-08 00:57:55,778 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 00:57:55,847 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 41.60
+2025-10-08 00:58:40,080 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-08 00:58:40,463 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-08 00:58:40,466 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 00:58:40,533 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Done. Avg. token count: 41.60
+2025-10-08 01:01:09,589 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-08 01:01:10,065 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-08 01:01:10,066 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 01:01:10,130 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 41.60
+2025-10-08 01:01:35,068 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-08 01:01:35,564 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-08 01:01:35,567 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 01:01:35,631 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 41.60
+2025-10-08 01:02:00,936 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-08 01:02:01,350 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-08 01:02:01,351 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 01:02:01,411 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 41.60
+2025-10-08 10:03:18,903 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-08 10:03:19,374 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-08 10:03:19,375 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 10:03:19,449 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 41.60
+2025-10-08 10:42:07,747 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-08 10:42:08,184 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-08 10:42:08,193 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 10:42:08,280 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 41.60
+2025-10-08 10:42:20,149 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-08 10:42:20,492 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-08 10:42:20,495 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 10:42:20,556 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 41.60
+2025-10-08 10:45:52,240 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-08 10:45:52,677 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-08 10:45:52,688 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 10:45:52,773 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 41.60
+2025-10-08 10:46:10,630 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-08 10:46:11,037 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-08 10:46:11,042 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 10:46:11,109 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 41.60
+2025-10-08 10:51:44,417 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-08 10:51:44,839 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-08 10:51:44,849 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 10:51:44,929 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 41.60
+2025-10-08 10:57:20,629 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-08 10:57:21,007 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-08 10:57:21,013 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 10:57:21,079 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 41.60
+2025-10-08 11:09:51,168 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-08 11:09:51,661 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-08 11:09:51,677 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 11:09:51,766 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 41.60
+2025-10-08 11:10:08,407 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-08 11:10:08,808 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-08 11:10:08,812 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 11:10:08,875 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 41.60
+2025-10-08 11:10:43,083 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-08 11:10:43,509 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-08 11:10:43,510 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 11:10:43,571 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 41.60
+2025-10-08 11:10:43,594 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-08 11:10:44,009 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-08 11:10:44,011 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 11:10:44,071 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 41.60
+2025-10-08 11:13:34,777 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-08 11:13:35,174 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-08 11:13:35,181 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 11:13:35,245 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 41.60
+2025-10-08 11:14:03,879 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-08 11:14:04,292 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-08 11:14:04,293 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 11:14:04,356 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 41.60
+2025-10-08 11:14:07,515 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-08 11:14:07,897 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-08 11:14:07,899 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 11:14:07,959 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 41.60
+2025-10-08 11:14:26,140 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-08 11:14:26,597 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-08 11:14:26,597 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 11:14:26,662 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 41.60
+2025-10-08 11:14:28,573 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-08 11:14:28,945 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-08 11:14:28,947 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 11:14:29,006 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 41.60
+2025-10-08 11:15:38,995 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-08 11:15:39,723 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-08 11:15:39,745 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 11:15:39,985 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 41.60
+2025-10-08 11:15:45,250 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-08 11:15:45,681 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-08 11:15:45,684 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 11:15:45,748 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 41.60
+2025-10-08 11:19:29,228 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-08 11:19:29,665 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-08 11:19:29,672 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 11:19:29,740 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 41.60
+2025-10-08 11:28:33,409 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-08 11:28:33,831 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-08 11:28:33,832 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 11:28:33,899 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 41.60
+2025-10-08 11:28:33,924 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-08 11:28:34,322 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-08 11:28:34,325 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 11:28:34,386 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 41.60
+2025-10-08 11:28:56,445 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-08 11:28:56,799 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-08 11:28:56,802 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 11:28:56,864 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 41.60
+2025-10-08 11:28:57,985 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-08 11:28:58,314 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-08 11:28:58,319 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 11:28:58,379 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 41.60
+2025-10-08 11:29:53,959 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-08 11:29:54,351 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-08 11:29:54,357 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 11:29:54,423 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 41.60
+2025-10-08 11:30:57,843 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-08 11:30:58,217 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-08 11:30:58,224 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 11:30:58,285 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 41.60
+2025-10-08 11:32:18,553 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-08 11:32:18,918 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-08 11:32:18,924 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 11:32:18,987 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 41.60
+2025-10-08 11:34:19,017 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-08 11:34:19,405 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-08 11:34:19,412 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 11:34:19,477 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 41.60
+2025-10-08 11:34:20,112 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-08 11:34:20,452 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-08 11:34:20,455 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 11:34:20,518 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 41.60
+2025-10-08 11:36:23,462 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-08 11:36:23,861 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-08 11:36:23,867 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 11:36:23,931 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 41.60
+2025-10-08 11:36:24,483 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-08 11:36:24,801 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-08 11:36:24,806 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 11:36:24,869 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 41.60
+2025-10-08 11:46:56,535 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-08 11:46:56,942 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-08 11:46:56,943 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 11:46:57,021 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 41.60
+2025-10-08 11:46:57,047 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-08 11:46:57,431 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-08 11:46:57,434 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 11:46:57,498 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 41.60
+2025-10-08 11:46:58,032 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-08 11:46:58,340 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-08 11:46:58,342 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 11:46:58,403 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 41.60
+2025-10-08 11:48:48,771 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 11:48:48,896 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 41.60
+2025-10-08 11:52:51,758 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 11:52:51,816 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 41.60
+2025-10-08 12:24:09,057 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-08 12:24:10,132 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-08 12:24:10,139 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 12:24:10,226 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 41.60
+2025-10-08 12:24:10,234 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 12:24:14,119 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 48.36
+2025-10-08 12:25:20,917 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-08 12:25:21,304 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-08 12:25:21,310 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 12:25:38,157 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 47.76
+2025-10-08 12:25:38,335 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 12:25:41,767 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 48.36
+2025-10-08 12:27:54,027 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-08 12:27:54,448 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-08 12:27:54,455 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 12:28:11,106 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 47.76
+2025-10-08 12:28:11,278 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 12:28:14,779 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 48.36
+2025-10-08 12:52:15,385 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-08 12:52:15,814 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-08 12:52:15,815 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 12:52:15,878 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 41.60
+2025-10-08 12:53:19,864 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-08 12:53:20,354 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-08 12:53:20,356 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 12:53:20,422 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 41.60
+2025-10-08 13:00:43,723 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-08 13:00:44,234 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-08 13:00:44,234 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 13:00:44,302 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 41.60
+2025-10-08 13:01:00,212 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-08 13:01:00,703 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-08 13:01:00,706 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 13:01:00,769 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 41.60
+2025-10-08 13:06:32,600 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-08 13:06:33,022 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-08 13:06:33,026 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 13:06:33,091 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 41.60
+2025-10-08 13:42:11,441 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-08 13:42:11,898 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-08 13:42:11,906 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 13:42:11,984 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 41.60
+2025-10-08 13:42:12,549 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-08 13:42:12,900 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-08 13:42:12,906 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 13:42:12,976 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 41.60
+2025-10-08 14:14:00,401 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-08 14:14:01,140 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-08 14:14:01,148 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 14:14:01,229 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 41.60
+2025-10-08 14:14:01,790 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Loading spaCy model: en_core_web_sm
+2025-10-08 14:14:02,145 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - spaCy model loaded successfully.
+2025-10-08 14:14:02,150 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing column 'medical_abstract' using spaCy...
+2025-10-08 14:14:02,211 - mednlpix.features.preprocessing.spacy_preprocessor - INFO - Preprocessing completed. Average token count: 41.60

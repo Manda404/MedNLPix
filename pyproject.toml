@@ -5,15 +5,17 @@ description = "MedNLPix — Modular Medical NLP Pipeline for classifying clinica
 authors = ["Rostand Surel <rostand.surel@yahoo.com>"]
 license = "MIT"
 readme = "README.md"
-packages = [{ include = "mednlpix", from = "src" }]
+packages = [
+    { include = "mednlpix", from = "src" }
+    ]
 
 [tool.poetry.dependencies]
 python = ">=3.11,<3.13"
 
 # --- Core scientific stack ---
 pandas = "^2.2.3"
-numpy = "^2.1.1"
-scipy = "^1.16.2"
+numpy = "1.26.4"
+scipy = "1.13.1"
 scikit-learn = "^1.5.2"
 pydantic = "^2.9.2"
 joblib = "^1.4.2"
@@ -32,6 +34,8 @@ uvicorn = "^0.34.0"
 # --- CLI & utilities ---
 typer = "^0.12.5"
 nltk = "^3.9.2"
+spacy = "^3.8.7"
+gensim = "4.3.3"
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^8.3.3"

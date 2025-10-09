@@ -1,0 +1,266 @@
+2025-10-07 18:54:15,846 - preprocessing_pipeline - INFO - Fitting preprocessing pipeline (tfidf)...
+2025-10-07 19:03:34,339 - preprocessing_pipeline - INFO - Fitting preprocessing pipeline (tfidf)...
+2025-10-07 19:04:15,508 - preprocessing_pipeline - INFO - Fitting preprocessing pipeline (tfidf)...
+2025-10-07 19:05:28,199 - preprocessing_pipeline - INFO - Fitting preprocessing pipeline (tfidf)...
+2025-10-07 19:05:38,766 - preprocessing_pipeline - INFO - Saved preprocessing pipeline: models/artifacts/preprocessors/preprocessor_tfidf_20251007_190538.joblib
+2025-10-07 19:05:38,967 - preprocessing_pipeline - INFO - Fitting preprocessing pipeline (word2vec)...
+2025-10-07 19:06:38,643 - preprocessing_pipeline - INFO - Fitting preprocessing pipeline (tfidf)...
+2025-10-07 19:06:49,450 - preprocessing_pipeline - INFO - Saved preprocessing pipeline: models/artifacts/preprocessors/preprocessor_tfidf_20251007_190648.joblib
+2025-10-07 19:06:49,714 - preprocessing_pipeline - INFO - Fitting preprocessing pipeline (word2vec)...
+2025-10-07 19:22:48,073 - preprocessing_pipeline - INFO - Fitting preprocessing pipeline (tfidf)...
+2025-10-07 19:22:48,112 - preprocessing_pipeline - INFO - ??????
+2025-10-07 19:22:48,445 - preprocessing_pipeline - INFO - Saved preprocessing pipeline: models/artifacts/preprocessors/preprocessor_tfidf_20251007_192248.joblib
+2025-10-07 23:21:40,468 - preprocessing_pipeline - INFO - Fitting preprocessing pipeline (tfidf)...
+2025-10-07 23:21:40,506 - preprocessing_pipeline - INFO - ??????
+2025-10-07 23:21:41,010 - preprocessing_pipeline - INFO - Saved preprocessing pipeline: models/artifacts/preprocessors/preprocessor_tfidf_20251007_232140.joblib
+2025-10-07 23:22:50,840 - preprocessing_pipeline - INFO - Fitting preprocessing pipeline (tfidf)...
+2025-10-07 23:22:50,881 - preprocessing_pipeline - INFO - ??????
+2025-10-07 23:22:51,233 - preprocessing_pipeline - INFO - Saved preprocessing pipeline: models/artifacts/preprocessors/preprocessor_tfidf_20251007_232250.joblib
+2025-10-07 23:24:09,141 - preprocessing_pipeline - INFO - Fitting preprocessing pipeline (word2vec)...
+2025-10-07 23:24:09,186 - preprocessing_pipeline - INFO - ??????
+2025-10-07 23:24:09,657 - preprocessing_pipeline - INFO - Saved preprocessing pipeline: models/artifacts/preprocessors/preprocessor_word2vec_20251007_232409.joblib
+2025-10-07 23:33:19,536 - preprocessing_pipeline - INFO - Fitting preprocessing pipeline (tfidf)...
+2025-10-07 23:33:19,598 - preprocessing_pipeline - INFO - ??????
+2025-10-07 23:33:19,951 - preprocessing_pipeline - INFO - Saved preprocessing pipeline: models/artifacts/preprocessors/preprocessor_tfidf_20251007_233319.joblib
+2025-10-07 23:33:33,270 - preprocessing_pipeline - INFO - Fitting preprocessing pipeline (tfidf)...
+2025-10-07 23:33:33,312 - preprocessing_pipeline - INFO - ??????
+2025-10-07 23:33:33,824 - preprocessing_pipeline - INFO - Saved preprocessing pipeline: models/artifacts/preprocessors/preprocessor_tfidf_20251007_233333.joblib
+2025-10-07 23:33:57,909 - preprocessing_pipeline - INFO - Initialized TF-IDF pipeline with parameters: {'max_features': 3000}
+2025-10-07 23:33:57,910 - preprocessing_pipeline - INFO - Starting preprocessing training (tfidf) on 5 samples.
+2025-10-07 23:33:57,951 - preprocessing_pipeline - INFO - Text cleaning and lemmatization completed. Starting vectorization.
+2025-10-07 23:33:57,955 - preprocessing_pipeline - INFO - Vectorization completed (tfidf) — feature matrix shape: (5, 296).
+2025-10-07 23:33:58,303 - preprocessing_pipeline - INFO - Preprocessing pipeline successfully saved: models/artifacts/preprocessors/preprocessor_tfidf_20251007_233357.joblib
+2025-10-07 23:34:12,035 - preprocessing_pipeline - INFO - Initialized TF-IDF pipeline with parameters: {'max_features': 3000}
+2025-10-07 23:34:12,039 - preprocessing_pipeline - INFO - Starting preprocessing training (tfidf) on 5 samples.
+2025-10-07 23:34:12,084 - preprocessing_pipeline - INFO - Text cleaning and lemmatization completed. Starting vectorization.
+2025-10-07 23:34:12,087 - preprocessing_pipeline - INFO - Vectorization completed (tfidf) — feature matrix shape: (5, 296).
+2025-10-07 23:34:12,519 - preprocessing_pipeline - INFO - Preprocessing pipeline successfully saved: models/artifacts/preprocessors/preprocessor_tfidf_20251007_233412.joblib
+2025-10-07 23:34:26,119 - preprocessing_pipeline - INFO - Initialized Word2Vec pipeline with parameters: {'vector_size': 150, 'window': 10}
+2025-10-07 23:34:26,120 - preprocessing_pipeline - INFO - Starting preprocessing training (word2vec) on 5 samples.
+2025-10-07 23:34:26,160 - preprocessing_pipeline - INFO - Text cleaning and lemmatization completed. Starting vectorization.
+2025-10-07 23:34:26,170 - preprocessing_pipeline - INFO - Vectorization completed (word2vec) — feature matrix shape: (5, 150).
+2025-10-07 23:34:26,496 - preprocessing_pipeline - INFO - Preprocessing pipeline successfully saved: models/artifacts/preprocessors/preprocessor_word2vec_20251007_233426.joblib
+2025-10-07 23:44:09,818 - preprocessing_pipeline - INFO - Initialized TF-IDF pipeline with parameters: {'max_features': 3000}
+2025-10-07 23:44:09,820 - preprocessing_pipeline - INFO - Starting preprocessing training (tfidf) on 1600 samples.
+2025-10-07 23:44:20,607 - preprocessing_pipeline - INFO - Text cleaning and lemmatization completed. Starting vectorization.
+2025-10-07 23:44:20,726 - preprocessing_pipeline - INFO - Vectorization completed (tfidf) — feature matrix shape: (1600, 3000).
+2025-10-07 23:44:20,727 - preprocessing_pipeline - INFO - Applying preprocessing pipeline (tfidf) to new dataset (343 rows).
+2025-10-07 23:44:22,965 - preprocessing_pipeline - INFO - Text cleaning and lemmatization completed. Transforming to feature space.
+2025-10-07 23:44:22,978 - preprocessing_pipeline - INFO - Transformation completed — final matrix shape: (343, 3000).
+2025-10-07 23:44:23,496 - preprocessing_pipeline - INFO - Preprocessing pipeline successfully saved: models/artifacts/preprocessors/preprocessor_tfidf_20251007_234422.joblib
+2025-10-07 23:45:35,446 - preprocessing_pipeline - INFO - Initialized TF-IDF pipeline with parameters: {'max_features': 3000}
+2025-10-07 23:45:35,451 - preprocessing_pipeline - INFO - Starting preprocessing training (tfidf) on 1600 samples.
+2025-10-07 23:45:46,401 - preprocessing_pipeline - INFO - Text cleaning and lemmatization completed. Starting vectorization.
+2025-10-07 23:45:46,512 - preprocessing_pipeline - INFO - Vectorization completed (tfidf) — feature matrix shape: (1600, 3000).
+2025-10-07 23:45:46,513 - preprocessing_pipeline - INFO - Applying preprocessing pipeline (tfidf) to new dataset (343 rows).
+2025-10-07 23:45:48,679 - preprocessing_pipeline - INFO - Text cleaning and lemmatization completed. Transforming to feature space.
+2025-10-07 23:45:48,692 - preprocessing_pipeline - INFO - Transformation completed — final matrix shape: (343, 3000).
+2025-10-07 23:45:49,187 - preprocessing_pipeline - INFO - Preprocessing pipeline successfully saved: models/artifacts/preprocessors/preprocessor_tfidf_20251007_234548.joblib
+2025-10-08 00:30:20,746 - preprocessing_pipeline - INFO - Initialized TF-IDF pipeline with parameters: {'max_features': 3000}
+2025-10-08 00:30:20,750 - preprocessing_pipeline - INFO - Starting preprocessing training (tfidf) on 1600 samples.
+2025-10-08 00:30:32,008 - preprocessing_pipeline - INFO - Text cleaning and lemmatization completed. Starting vectorization.
+2025-10-08 00:30:32,122 - preprocessing_pipeline - INFO - Vectorization completed (tfidf) — feature matrix shape: (1600, 3000).
+2025-10-08 00:30:32,123 - preprocessing_pipeline - INFO - Applying preprocessing pipeline (tfidf) to new dataset (343 rows).
+2025-10-08 00:30:34,209 - preprocessing_pipeline - INFO - Text cleaning and lemmatization completed. Transforming to feature space.
+2025-10-08 00:30:34,224 - preprocessing_pipeline - INFO - Transformation completed — final matrix shape: (343, 3000).
+2025-10-08 00:30:34,627 - preprocessing_pipeline - INFO - Preprocessing pipeline successfully saved: models/artifacts/preprocessors/preprocessor_tfidf_20251008_003034.joblib
+2025-10-08 10:42:08,185 - preprocessing_pipeline - INFO - Initialized TF-IDF pipeline with parameters: {'max_features': 3000}
+2025-10-08 10:42:08,191 - preprocessing_pipeline - INFO - Starting preprocessing training (tfidf) on 5 samples.
+2025-10-08 10:42:08,280 - preprocessing_pipeline - INFO - Text cleaning and lemmatization completed. Starting vectorization.
+2025-10-08 10:42:08,291 - preprocessing_pipeline - INFO - Vectorization completed (tfidf) — feature matrix shape: (5, 296).
+2025-10-08 10:42:20,493 - preprocessing_pipeline - INFO - Initialized TF-IDF pipeline with parameters: {'max_features': 3000}
+2025-10-08 10:42:20,495 - preprocessing_pipeline - INFO - Starting preprocessing training (tfidf) on 5 samples.
+2025-10-08 10:42:20,557 - preprocessing_pipeline - INFO - Text cleaning and lemmatization completed. Starting vectorization.
+2025-10-08 10:42:20,560 - preprocessing_pipeline - INFO - Vectorization completed (tfidf) — feature matrix shape: (5, 296).
+2025-10-08 10:45:52,678 - preprocessing_pipeline - INFO - Initialized TF-IDF pipeline with parameters: {'max_features': 3000}
+2025-10-08 10:45:52,685 - preprocessing_pipeline - INFO - Starting preprocessing training (tfidf) on 5 samples.
+2025-10-08 10:45:52,773 - preprocessing_pipeline - INFO - Text cleaning and lemmatization completed. Starting vectorization.
+2025-10-08 10:45:52,782 - preprocessing_pipeline - INFO - Vectorization completed (tfidf) — feature matrix shape: (5, 296).
+2025-10-08 10:45:53,481 - preprocessing_pipeline - INFO - Preprocessing pipeline successfully saved: /Users/surelmanda/Data-Science-Projects/MedNLPix/src/mednlpix/models/preprocessor_tfidf_20251008_104552.joblib
+2025-10-08 10:46:11,038 - preprocessing_pipeline - INFO - Initialized TF-IDF pipeline with parameters: {'max_features': 3000}
+2025-10-08 10:46:11,041 - preprocessing_pipeline - INFO - Starting preprocessing training (tfidf) on 5 samples.
+2025-10-08 10:46:11,109 - preprocessing_pipeline - INFO - Text cleaning and lemmatization completed. Starting vectorization.
+2025-10-08 10:46:11,113 - preprocessing_pipeline - INFO - Vectorization completed (tfidf) — feature matrix shape: (5, 296).
+2025-10-08 10:46:11,650 - preprocessing_pipeline - INFO - Preprocessing pipeline successfully saved: /Users/surelmanda/Data-Science-Projects/MedNLPix/src/mednlpix/models/preprocessor_tfidf_20251008_104611.joblib
+2025-10-08 10:51:44,840 - preprocessing_pipeline - INFO - Initialized TF-IDF pipeline with parameters: {'max_features': 3000}
+2025-10-08 10:51:44,847 - preprocessing_pipeline - INFO - Starting preprocessing training (tfidf) on 5 samples.
+2025-10-08 10:51:44,930 - preprocessing_pipeline - INFO - Text cleaning and lemmatization completed. Starting vectorization.
+2025-10-08 10:51:44,938 - preprocessing_pipeline - INFO - Vectorization completed (tfidf) — feature matrix shape: (5, 296).
+2025-10-08 10:51:45,609 - preprocessing_pipeline - INFO - Preprocessing pipeline successfully saved: /Users/surelmanda/Data-Science-Projects/MedNLPix/src/mednlpix/models/preprocessor_tfidf_20251008_105144.joblib
+2025-10-08 10:57:21,008 - preprocessing_pipeline - INFO - Initialized TF-IDF pipeline with parameters: {'max_features': 3000}
+2025-10-08 10:57:21,013 - preprocessing_pipeline - INFO - Starting preprocessing training (tfidf) on 5 samples.
+2025-10-08 10:57:21,080 - preprocessing_pipeline - INFO - Text cleaning and lemmatization completed. Starting vectorization.
+2025-10-08 10:57:21,084 - preprocessing_pipeline - INFO - Vectorization completed (tfidf) — feature matrix shape: (5, 296).
+2025-10-08 10:57:21,626 - preprocessing_pipeline - INFO - Preprocessing pipeline successfully saved: /Users/surelmanda/Data-Science-Projects/MedNLPix/src/mednlpix/models/preprocessor_tfidf_20251008_105721.joblib
+2025-10-08 11:09:51,663 - preprocessing_pipeline - INFO - Initialized TF-IDF pipeline with parameters: {'max_features': 3000}
+2025-10-08 11:09:51,674 - preprocessing_pipeline - INFO - Starting preprocessing training (tfidf) on 5 samples.
+2025-10-08 11:09:51,766 - preprocessing_pipeline - INFO - Text cleaning and lemmatization completed. Starting vectorization.
+2025-10-08 11:09:51,777 - preprocessing_pipeline - INFO - Vectorization completed (tfidf) — feature matrix shape: (5, 296).
+2025-10-08 11:09:52,645 - preprocessing_pipeline - INFO - Preprocessing pipeline successfully saved: /Users/surelmanda/Data-Science-Projects/MedNLPix/src/mednlpix/models/preprocessor_tfidf_20251008_110951.joblib
+2025-10-08 11:10:08,810 - preprocessing_pipeline - INFO - Initialized TF-IDF pipeline with parameters: {'max_features': 3000}
+2025-10-08 11:10:08,812 - preprocessing_pipeline - INFO - Starting preprocessing training (tfidf) on 5 samples.
+2025-10-08 11:10:08,876 - preprocessing_pipeline - INFO - Text cleaning and lemmatization completed. Starting vectorization.
+2025-10-08 11:10:08,879 - preprocessing_pipeline - INFO - Vectorization completed (tfidf) — feature matrix shape: (5, 296).
+2025-10-08 11:10:09,414 - preprocessing_pipeline - INFO - Preprocessing pipeline successfully saved: /Users/surelmanda/Data-Science-Projects/MedNLPix/src/mednlpix/models/preprocessor_tfidf_20251008_111008.joblib
+2025-10-08 11:10:44,010 - preprocessing_pipeline - INFO - Initialized TF-IDF pipeline with parameters: {'max_features': 3000}
+2025-10-08 11:10:44,010 - preprocessing_pipeline - INFO - Starting preprocessing training (tfidf) on 5 samples.
+2025-10-08 11:10:44,072 - preprocessing_pipeline - INFO - Text cleaning and lemmatization completed. Starting vectorization.
+2025-10-08 11:10:44,075 - preprocessing_pipeline - INFO - Vectorization completed (tfidf) — feature matrix shape: (5, 296).
+2025-10-08 11:10:44,623 - preprocessing_pipeline - INFO - Preprocessing pipeline successfully saved: /Users/surelmanda/Data-Science-Projects/MedNLPix/src/mednlpix/models/pipeline_tfidf_20251008_111044.joblib
+2025-10-08 11:13:35,176 - preprocessing_pipeline - INFO - Initialized TF-IDF pipeline with parameters: {'max_features': 3000}
+2025-10-08 11:13:35,180 - preprocessing_pipeline - INFO - Starting preprocessing training (tfidf) on 5 samples.
+2025-10-08 11:13:35,245 - preprocessing_pipeline - INFO - Text cleaning and lemmatization completed. Starting vectorization.
+2025-10-08 11:13:35,250 - preprocessing_pipeline - INFO - Vectorization completed (tfidf) — feature matrix shape: (5, 296).
+2025-10-08 11:13:35,909 - preprocessing_pipeline - INFO - Preprocessing pipeline successfully saved: /Users/surelmanda/Data-Science-Projects/MedNLPix/src/mednlpix/models/pipeline_tfidf_20251008_111335.joblib
+2025-10-08 11:14:07,898 - preprocessing_pipeline - INFO - Initialized TF-IDF pipeline with parameters: {'max_features': 3000}
+2025-10-08 11:14:07,899 - preprocessing_pipeline - INFO - Starting preprocessing training (tfidf) on 5 samples.
+2025-10-08 11:14:07,960 - preprocessing_pipeline - INFO - Text cleaning and lemmatization completed. Starting vectorization.
+2025-10-08 11:14:07,963 - preprocessing_pipeline - INFO - Vectorization completed (tfidf) — feature matrix shape: (5, 296).
+2025-10-08 11:14:08,496 - preprocessing_pipeline - INFO - Preprocessing pipeline successfully saved: /Users/surelmanda/Data-Science-Projects/MedNLPix/src/mednlpix/models/pipeline_tfidf_20251008_111407.joblib
+2025-10-08 11:14:28,946 - preprocessing_pipeline - INFO - Initialized TF-IDF pipeline with parameters: {'max_features': 3000}
+2025-10-08 11:14:28,947 - preprocessing_pipeline - INFO - Starting preprocessing training (tfidf) on 5 samples.
+2025-10-08 11:14:29,007 - preprocessing_pipeline - INFO - Text cleaning and lemmatization completed. Starting vectorization.
+2025-10-08 11:14:29,011 - preprocessing_pipeline - INFO - Vectorization completed (tfidf) — feature matrix shape: (5, 296).
+2025-10-08 11:14:29,544 - preprocessing_pipeline - INFO - Preprocessing pipeline successfully saved: /Users/surelmanda/Data-Science-Projects/MedNLPix/src/mednlpix/models/pipeline_tfidf_20251008_111429.joblib
+2025-10-08 11:15:45,683 - preprocessing_pipeline - INFO - Initialized TF-IDF pipeline with parameters: {'max_features': 3000}
+2025-10-08 11:15:45,683 - preprocessing_pipeline - INFO - Starting preprocessing training (tfidf) on 5 samples.
+2025-10-08 11:15:45,749 - preprocessing_pipeline - INFO - Text cleaning and lemmatization completed. Starting vectorization.
+2025-10-08 11:15:45,752 - preprocessing_pipeline - INFO - Vectorization completed (tfidf) — feature matrix shape: (5, 296).
+2025-10-08 11:15:46,306 - preprocessing_pipeline - INFO - Preprocessing pipeline successfully saved: /Users/surelmanda/Data-Science-Projects/MedNLPix/src/mednlpix/models/pipeline_tfidf_20251008_111545.joblib
+2025-10-08 11:19:29,667 - preprocessing_pipeline - INFO - Initialized TF-IDF pipeline with parameters: {'max_features': 3000}
+2025-10-08 11:19:29,672 - preprocessing_pipeline - INFO - Starting preprocessing training (tfidf) on 5 samples.
+2025-10-08 11:19:29,740 - preprocessing_pipeline - INFO - Text cleaning and lemmatization completed. Starting vectorization.
+2025-10-08 11:19:29,745 - preprocessing_pipeline - INFO - Vectorization completed (tfidf) — feature matrix shape: (5, 296).
+2025-10-08 11:19:30,315 - preprocessing_pipeline - INFO - Preprocessing pipeline successfully saved: /Users/surelmanda/Data-Science-Projects/MedNLPix/src/mednlpix/models/pipeline_tfidf_20251008_111929.joblib
+2025-10-08 11:28:34,323 - preprocessing_pipeline - INFO - Initialized TF-IDF pipeline with parameters: {'max_features': 3000}
+2025-10-08 11:28:34,324 - preprocessing_pipeline - INFO - Starting preprocessing training (tfidf) on 5 samples.
+2025-10-08 11:28:34,387 - preprocessing_pipeline - INFO - Text cleaning and lemmatization completed. Starting vectorization.
+2025-10-08 11:28:34,392 - preprocessing_pipeline - INFO - Vectorization completed (tfidf) — feature matrix shape: (5, 296).
+2025-10-08 11:28:34,932 - preprocessing_pipeline - INFO - Preprocessing pipeline successfully saved: /Users/surelmanda/Data-Science-Projects/MedNLPix/src/mednlpix/models/pipeline_tfidf_20251008_112834.joblib
+2025-10-08 11:28:58,316 - preprocessing_pipeline - INFO - Initialized TF-IDF pipeline with parameters: {'max_features': 3000}
+2025-10-08 11:28:58,319 - preprocessing_pipeline - INFO - Starting preprocessing training (tfidf) on 5 samples.
+2025-10-08 11:28:58,379 - preprocessing_pipeline - INFO - Text cleaning and lemmatization completed. Starting vectorization.
+2025-10-08 11:28:58,384 - preprocessing_pipeline - INFO - Vectorization completed (tfidf) — feature matrix shape: (5, 296).
+2025-10-08 11:28:59,059 - preprocessing_pipeline - INFO - Preprocessing pipeline successfully saved: /Users/surelmanda/Data-Science-Projects/MedNLPix/src/mednlpix/models/pipeline_tfidf_20251008_112858.joblib
+2025-10-08 11:29:54,352 - preprocessing_pipeline - INFO - Initialized TF-IDF pipeline with parameters: {'max_features': 3000}
+2025-10-08 11:29:54,356 - preprocessing_pipeline - INFO - Starting preprocessing training (tfidf) on 5 samples.
+2025-10-08 11:29:54,423 - preprocessing_pipeline - INFO - Text cleaning and lemmatization completed. Starting vectorization.
+2025-10-08 11:29:54,434 - preprocessing_pipeline - INFO - Vectorization completed (tfidf) — feature matrix shape: (5, 296).
+2025-10-08 11:29:55,031 - preprocessing_pipeline - INFO - Preprocessing pipeline successfully saved: /Users/surelmanda/Data-Science-Projects/MedNLPix/src/mednlpix/models/pipeline_tfidf_20251008_112954.joblib
+2025-10-08 11:30:58,218 - preprocessing_pipeline - INFO - Initialized TF-IDF pipeline with parameters: {'max_features': 3000}
+2025-10-08 11:30:58,223 - preprocessing_pipeline - INFO - Starting preprocessing training (tfidf) on 5 samples.
+2025-10-08 11:30:58,286 - preprocessing_pipeline - INFO - Text cleaning and lemmatization completed. Starting vectorization.
+2025-10-08 11:30:58,290 - preprocessing_pipeline - INFO - Vectorization completed (tfidf) — feature matrix shape: (5, 296).
+2025-10-08 11:30:58,830 - preprocessing_pipeline - INFO - Preprocessing pipeline successfully saved: /Users/surelmanda/Data-Science-Projects/MedNLPix/src/mednlpix/models/pipeline_tfidf_20251008_113058.joblib
+2025-10-08 11:32:18,920 - preprocessing_pipeline - INFO - Initialized TF-IDF pipeline with parameters: {'max_features': 3000}
+2025-10-08 11:32:18,923 - preprocessing_pipeline - INFO - Starting preprocessing training (tfidf) on 5 samples.
+2025-10-08 11:32:18,987 - preprocessing_pipeline - INFO - Text cleaning and lemmatization completed. Starting vectorization.
+2025-10-08 11:32:18,992 - preprocessing_pipeline - INFO - Vectorization completed (tfidf) — feature matrix shape: (5, 296).
+2025-10-08 11:32:19,651 - preprocessing_pipeline - INFO - Preprocessing pipeline successfully saved: /Users/surelmanda/Data-Science-Projects/MedNLPix/src/mednlpix/models/pipeline_tfidf_20251008_113218.joblib
+2025-10-08 11:34:19,407 - preprocessing_pipeline - INFO - Initialized TF-IDF pipeline with parameters: {'max_features': 3000}
+2025-10-08 11:34:19,411 - preprocessing_pipeline - INFO - Starting preprocessing training (tfidf) on 5 samples.
+2025-10-08 11:34:19,478 - preprocessing_pipeline - INFO - Text cleaning and lemmatization completed. Starting vectorization.
+2025-10-08 11:34:19,483 - preprocessing_pipeline - INFO - Vectorization completed (tfidf) — feature matrix shape: (5, 296).
+2025-10-08 11:34:20,109 - preprocessing_pipeline - INFO - Preprocessing pipeline successfully saved: /Users/surelmanda/Data-Science-Projects/MedNLPix/src/mednlpix/models/pipeline_tfidf_20251008_113419.joblib
+2025-10-08 11:34:20,454 - preprocessing_pipeline - INFO - Initialized Word2Vec pipeline with parameters: {'vector_size': 150, 'window': 10}
+2025-10-08 11:34:20,454 - preprocessing_pipeline - INFO - Starting preprocessing training (word2vec) on 5 samples.
+2025-10-08 11:34:20,518 - preprocessing_pipeline - INFO - Text cleaning and lemmatization completed. Starting vectorization.
+2025-10-08 11:34:20,535 - preprocessing_pipeline - INFO - Vectorization completed (word2vec) — feature matrix shape: (5, 150).
+2025-10-08 11:34:21,253 - preprocessing_pipeline - INFO - Preprocessing pipeline successfully saved: /Users/surelmanda/Data-Science-Projects/MedNLPix/src/mednlpix/models/pipeline_word2vec_20251008_113420.joblib
+2025-10-08 11:36:23,863 - preprocessing_pipeline - INFO - Initialized TF-IDF pipeline with parameters: {'max_features': 3000}
+2025-10-08 11:36:23,866 - preprocessing_pipeline - INFO - Starting preprocessing training (tfidf) on 5 samples.
+2025-10-08 11:36:23,932 - preprocessing_pipeline - INFO - Text cleaning and lemmatization completed. Starting vectorization.
+2025-10-08 11:36:23,938 - preprocessing_pipeline - INFO - Vectorization completed (tfidf) — feature matrix shape: (5, 296).
+2025-10-08 11:36:24,481 - preprocessing_pipeline - INFO - Preprocessing pipeline successfully saved: /Users/surelmanda/Data-Science-Projects/MedNLPix/src/mednlpix/models/pipeline_tfidf_20251008_113623.joblib
+2025-10-08 11:36:24,803 - preprocessing_pipeline - INFO - Initialized Word2Vec pipeline with parameters: {'vector_size': 150, 'window': 10}
+2025-10-08 11:36:24,805 - preprocessing_pipeline - INFO - Starting preprocessing training (word2vec) on 5 samples.
+2025-10-08 11:36:24,869 - preprocessing_pipeline - INFO - Text cleaning and lemmatization completed. Starting vectorization.
+2025-10-08 11:36:24,880 - preprocessing_pipeline - INFO - Vectorization completed (word2vec) — feature matrix shape: (5, 150).
+2025-10-08 11:36:25,541 - preprocessing_pipeline - INFO - Preprocessing pipeline successfully saved: /Users/surelmanda/Data-Science-Projects/MedNLPix/src/mednlpix/models/pipeline_word2vec_20251008_113624.joblib
+2025-10-08 11:46:57,432 - preprocessing_pipeline - INFO - Initialized TF-IDF pipeline with parameters: {'max_features': 3000}
+2025-10-08 11:46:57,433 - preprocessing_pipeline - INFO - Starting preprocessing training (tfidf) on 5 samples.
+2025-10-08 11:46:57,498 - preprocessing_pipeline - INFO - Text cleaning and lemmatization completed. Starting vectorization.
+2025-10-08 11:46:57,504 - preprocessing_pipeline - INFO - Vectorization completed (tfidf) — feature matrix shape: (5, 296).
+2025-10-08 11:46:58,029 - preprocessing_pipeline - INFO - Preprocessing pipeline successfully saved: /Users/surelmanda/Data-Science-Projects/MedNLPix/src/mednlpix/models/pipeline_tfidf_20251008_114657.joblib
+2025-10-08 11:46:58,341 - preprocessing_pipeline - INFO - Initialized Word2Vec pipeline with parameters: {'vector_size': 150, 'window': 10}
+2025-10-08 11:46:58,341 - preprocessing_pipeline - INFO - Starting preprocessing training (word2vec) on 5 samples.
+2025-10-08 11:46:58,403 - preprocessing_pipeline - INFO - Text cleaning and lemmatization completed. Starting vectorization.
+2025-10-08 11:46:58,416 - preprocessing_pipeline - INFO - Vectorization completed (word2vec) — feature matrix shape: (5, 150).
+2025-10-08 11:46:59,042 - preprocessing_pipeline - INFO - Preprocessing pipeline successfully saved: /Users/surelmanda/Data-Science-Projects/MedNLPix/src/mednlpix/models/pipeline_word2vec_20251008_114658.joblib
+2025-10-08 11:48:48,769 - preprocessing_pipeline - INFO - Applying preprocessing pipeline (tfidf) to new dataset (5 rows).
+2025-10-08 11:48:48,897 - preprocessing_pipeline - INFO - Text cleaning and lemmatization completed. Transforming to feature space.
+2025-10-08 11:48:48,902 - preprocessing_pipeline - INFO - Transformation completed — final matrix shape: (5, 296).
+2025-10-08 11:52:51,757 - preprocessing_pipeline - INFO - Applying preprocessing pipeline (word2vec) to new dataset (5 rows).
+2025-10-08 11:52:51,816 - preprocessing_pipeline - INFO - Text cleaning and lemmatization completed. Transforming to feature space.
+2025-10-08 11:52:51,820 - preprocessing_pipeline - INFO - Transformation completed — final matrix shape: (5, 150).
+2025-10-08 12:24:10,134 - preprocessing_pipeline - INFO - Initialized TF-IDF pipeline with parameters: {'max_features': 3000}
+2025-10-08 12:24:10,138 - preprocessing_pipeline - INFO - Starting preprocessing training (tfidf) on 5 samples.
+2025-10-08 12:24:10,226 - preprocessing_pipeline - INFO - Text cleaning and lemmatization completed. Starting vectorization.
+2025-10-08 12:24:10,232 - preprocessing_pipeline - INFO - Vectorization completed (tfidf) — feature matrix shape: (5, 296).
+2025-10-08 12:24:10,233 - preprocessing_pipeline - INFO - Applying preprocessing pipeline (tfidf) to new dataset (343 rows).
+2025-10-08 12:24:14,120 - preprocessing_pipeline - INFO - Text cleaning and lemmatization completed. Transforming to feature space.
+2025-10-08 12:24:14,141 - preprocessing_pipeline - INFO - Transformation completed — final matrix shape: (343, 296).
+2025-10-08 12:24:14,715 - preprocessing_pipeline - INFO - Preprocessing pipeline successfully saved: models/artifacts/preprocessors/pipeline_tfidf_20251008_122414.joblib
+2025-10-08 12:25:21,306 - preprocessing_pipeline - INFO - Initialized TF-IDF pipeline with parameters: {'max_features': 3000}
+2025-10-08 12:25:21,310 - preprocessing_pipeline - INFO - Starting preprocessing training (tfidf) on 1600 samples.
+2025-10-08 12:25:38,158 - preprocessing_pipeline - INFO - Text cleaning and lemmatization completed. Starting vectorization.
+2025-10-08 12:25:38,334 - preprocessing_pipeline - INFO - Vectorization completed (tfidf) — feature matrix shape: (1600, 3000).
+2025-10-08 12:25:38,335 - preprocessing_pipeline - INFO - Applying preprocessing pipeline (tfidf) to new dataset (343 rows).
+2025-10-08 12:25:41,768 - preprocessing_pipeline - INFO - Text cleaning and lemmatization completed. Transforming to feature space.
+2025-10-08 12:25:41,790 - preprocessing_pipeline - INFO - Transformation completed — final matrix shape: (343, 3000).
+2025-10-08 12:25:42,541 - preprocessing_pipeline - INFO - Preprocessing pipeline successfully saved: models/artifacts/preprocessors/pipeline_tfidf_20251008_122541.joblib
+2025-10-08 12:27:54,449 - preprocessing_pipeline - INFO - Initialized TF-IDF pipeline with parameters: {'max_features': 3000}
+2025-10-08 12:27:54,455 - preprocessing_pipeline - INFO - Starting preprocessing training (tfidf) on 1600 samples.
+2025-10-08 12:28:11,107 - preprocessing_pipeline - INFO - Text cleaning and lemmatization completed. Starting vectorization.
+2025-10-08 12:28:11,277 - preprocessing_pipeline - INFO - Vectorization completed (tfidf) — feature matrix shape: (1600, 3000).
+2025-10-08 12:28:11,277 - preprocessing_pipeline - INFO - Applying preprocessing pipeline (tfidf) to new dataset (343 rows).
+2025-10-08 12:28:14,780 - preprocessing_pipeline - INFO - Text cleaning and lemmatization completed. Transforming to feature space.
+2025-10-08 12:28:14,801 - preprocessing_pipeline - INFO - Transformation completed — final matrix shape: (343, 3000).
+2025-10-08 12:53:20,355 - preprocessing_pipeline - INFO - Initialized TF-IDF pipeline with parameters: {'max_features': 3000}
+2025-10-08 12:53:20,356 - preprocessing_pipeline - INFO - Starting preprocessing training (tfidf) on 5 samples.
+2025-10-08 12:53:20,422 - preprocessing_pipeline - INFO - Text cleaning and lemmatization completed. Starting vectorization.
+2025-10-08 12:53:20,428 - preprocessing_pipeline - INFO - Vectorization completed (tfidf) — feature matrix shape: (5, 296).
+2025-10-08 12:53:20,429 - preprocessing_pipeline - INFO - Starting preprocessing pipeline saving process...
+2025-10-08 12:53:20,969 - preprocessing_pipeline - INFO - Preprocessing pipeline successfully saved at: /Users/surelmanda/Data-Science-Projects/MedNLPix/src/mednlpix/models/pipeline_tfidf_20251008_125320.joblib
+2025-10-08 13:01:00,704 - preprocessing_pipeline - INFO - Initialized TF-IDF pipeline with parameters: {'max_features': 3000}
+2025-10-08 13:01:00,705 - preprocessing_pipeline - INFO - Starting preprocessing training (tfidf) on 5 samples.
+2025-10-08 13:01:00,769 - preprocessing_pipeline - INFO - Text cleaning and lemmatization completed. Starting vectorization.
+2025-10-08 13:01:00,774 - preprocessing_pipeline - INFO - Vectorization completed (tfidf) — feature matrix shape: (5, 296).
+2025-10-08 13:01:00,775 - preprocessing_pipeline - INFO - Starting preprocessing pipeline saving process...
+2025-10-08 13:01:01,308 - preprocessing_pipeline - INFO - Preprocessing pipeline successfully saved at: /Users/surelmanda/Data-Science-Projects/MedNLPix/src/mednlpix/models/pipeline_tfidf_20251008_130100.joblib
+2025-10-08 13:01:01,310 - preprocessing_pipeline - INFO - Model registry updated.
+2025-10-08 13:06:33,024 - preprocessing_pipeline - INFO - Initialized Word2Vec pipeline with parameters: {'vector_size': 150, 'window': 10}
+2025-10-08 13:06:33,025 - preprocessing_pipeline - INFO - Starting preprocessing training (word2vec) on 5 samples.
+2025-10-08 13:06:33,092 - preprocessing_pipeline - INFO - Text cleaning and lemmatization completed. Starting vectorization.
+2025-10-08 13:06:33,110 - preprocessing_pipeline - INFO - Vectorization completed (word2vec) — feature matrix shape: (5, 150).
+2025-10-08 13:06:33,111 - preprocessing_pipeline - INFO - Starting preprocessing pipeline saving process...
+2025-10-08 13:06:33,750 - preprocessing_pipeline - INFO - Preprocessing pipeline successfully saved at: /Users/surelmanda/Data-Science-Projects/MedNLPix/src/mednlpix/models/pipeline_word2vec_20251008_130633.joblib
+2025-10-08 13:06:33,753 - preprocessing_pipeline - INFO - Model registry updated.
+2025-10-08 13:42:11,899 - preprocessing_pipeline - INFO - Initialized TF-IDF pipeline with parameters: {'max_features': 3000}
+2025-10-08 13:42:11,905 - preprocessing_pipeline - INFO - Starting preprocessing training (tfidf) on 5 samples.
+2025-10-08 13:42:11,985 - preprocessing_pipeline - INFO - Text cleaning and lemmatization completed. Starting vectorization.
+2025-10-08 13:42:11,994 - preprocessing_pipeline - INFO - Vectorization completed (tfidf) — feature matrix shape: (5, 296).
+2025-10-08 13:42:11,994 - preprocessing_pipeline - INFO - Starting preprocessing pipeline saving process...
+2025-10-08 13:42:12,547 - preprocessing_pipeline - INFO - Preprocessing pipeline successfully saved at: /Users/surelmanda/Data-Science-Projects/MedNLPix/src/mednlpix/models/pipeline_tfidf_20251008_134211.joblib
+2025-10-08 13:42:12,549 - preprocessing_pipeline - INFO - Model registry updated.
+2025-10-08 13:42:12,902 - preprocessing_pipeline - INFO - Initialized Word2Vec pipeline with parameters: {'vector_size': 150, 'window': 10}
+2025-10-08 13:42:12,906 - preprocessing_pipeline - INFO - Starting preprocessing training (word2vec) on 5 samples.
+2025-10-08 13:42:12,977 - preprocessing_pipeline - INFO - Text cleaning and lemmatization completed. Starting vectorization.
+2025-10-08 13:42:12,994 - preprocessing_pipeline - INFO - Vectorization completed (word2vec) — feature matrix shape: (5, 150).
+2025-10-08 13:42:12,994 - preprocessing_pipeline - INFO - Starting preprocessing pipeline saving process...
+2025-10-08 13:42:13,595 - preprocessing_pipeline - INFO - Preprocessing pipeline successfully saved at: /Users/surelmanda/Data-Science-Projects/MedNLPix/src/mednlpix/models/pipeline_word2vec_20251008_134212.joblib
+2025-10-08 13:42:13,597 - preprocessing_pipeline - INFO - Model registry updated.
+2025-10-08 14:14:01,141 - preprocessing_pipeline - INFO - Initialized TF-IDF pipeline with parameters: {'max_features': 3000}
+2025-10-08 14:14:01,146 - preprocessing_pipeline - INFO - Starting preprocessing training (tfidf) on 5 samples.
+2025-10-08 14:14:01,230 - preprocessing_pipeline - INFO - Text cleaning and lemmatization completed. Starting vectorization.
+2025-10-08 14:14:01,237 - preprocessing_pipeline - INFO - Vectorization completed (tfidf) — feature matrix shape: (5, 296).
+2025-10-08 14:14:01,237 - preprocessing_pipeline - INFO - Starting preprocessing pipeline saving process...
+2025-10-08 14:14:01,787 - preprocessing_pipeline - INFO - Preprocessing pipeline successfully saved at: /Users/surelmanda/Data-Science-Projects/MedNLPix/src/mednlpix/models/pipeline_tfidf_20251008_141401.joblib
+2025-10-08 14:14:01,789 - preprocessing_pipeline - INFO - Model registry updated.
+2025-10-08 14:14:02,146 - preprocessing_pipeline - INFO - Initialized Word2Vec pipeline with parameters: {'vector_size': 150, 'window': 10}
+2025-10-08 14:14:02,149 - preprocessing_pipeline - INFO - Starting preprocessing training (word2vec) on 5 samples.
+2025-10-08 14:14:02,212 - preprocessing_pipeline - INFO - Text cleaning and lemmatization completed. Starting vectorization.
+2025-10-08 14:14:02,227 - preprocessing_pipeline - INFO - Vectorization completed (word2vec) — feature matrix shape: (5, 150).
+2025-10-08 14:14:02,228 - preprocessing_pipeline - INFO - Starting preprocessing pipeline saving process...
+2025-10-08 14:14:02,785 - preprocessing_pipeline - INFO - Preprocessing pipeline successfully saved at: /Users/surelmanda/Data-Science-Projects/MedNLPix/src/mednlpix/models/pipeline_word2vec_20251008_141402.joblib
+2025-10-08 14:14:02,786 - preprocessing_pipeline - INFO - Model registry updated.

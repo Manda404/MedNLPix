@@ -1,0 +1,10 @@
+{
+    "preprocessor_tfidf": {
+        "path": "/Users/surelmanda/Data-Science-Projects/MedNLPix/notebooks/models/artifacts/preprocessors/pipeline_tfidf_20251008_122541.joblib",
+        "version": "pipeline_tfidf_20251008_122541"
+    },
+    "model_tfidf": {
+        "path": "/Users/surelmanda/Data-Science-Projects/MedNLPix/notebooks/models/artifacts/logreg_tfidf_20251008_122542.joblib",
+        "version": "logreg_tfidf_20251008_122542"
+    }
+}
